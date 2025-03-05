@@ -22,6 +22,8 @@ O livro usado como norteador da cadeira foi :
 
 ## Trabalho Final
 
+### [Plano A](https://github.com/ElyssonAlvs/Machine_Learning/tree/main/Seguranca_Inteligente)
+
 A abordagem inicial do trabalho foi a seguinte:
 
 - **Problema:** Prever o número de ocorrências cidade de São Paulo.
@@ -41,7 +43,7 @@ visando separar áreas das ocorrências com base na sua quantidade em cada regi�
 na longitude e na latitude, como temos poucas *Features*, o modelo erraria bastante.
 - **Plano B:** mudança do problema. 
 
-### Plano B
+### [Plano B](https://github.com/ElyssonAlvs/Machine_Learning/tree/main/Flight_Prediction)
 
 Após discutir e decidir qual tema abordaríamos, o escolhido foi uma ideia abordando regressão onde :
 
